@@ -1,2 +1,2 @@
 # evantomokiwebpage
-Portfolio project of my language web
+Basic web page project for my portfolio
